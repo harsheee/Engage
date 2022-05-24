@@ -1,13 +1,13 @@
-from fileinput import filename
+# from fileinput import filename
 import streamlit as st
-from PIL import Image
-from sqlite3 import TimestampFromTicks
+# from PIL import Image
+# from sqlite3 import TimestampFromTicks
 from cv2 import FONT_HERSHEY_COMPLEX
 import numpy as np
 import os
 import cv2
 import face_recognition
-from datetime import datetime
+# from datetime import datetime
 
 st.title("Face Recognition System")
 run=st.checkbox("Run")
