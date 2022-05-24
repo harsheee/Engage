@@ -1,6 +1,6 @@
 streamlit==0.79.0
 numpy==1.19.0
-cv2==4.5.5
+openCV – 3.4.14
 opencv-contrib-python==3.4.0.12
 opencv-python==3.4.1
 pandas==1.0.3
