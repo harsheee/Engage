@@ -1,5 +1,1 @@
-numpy as np
-os
-cv2
-face_recognition
 
